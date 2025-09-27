@@ -1,0 +1,5 @@
+
+Easy App UI Wireframe:
+- Splash Screen: App logo, transitions to main screen.
+- Main Screen: Dynamic content based on app purpose (e.g., list, grid, or form).
+- Settings Screen: User preferences and logout option.

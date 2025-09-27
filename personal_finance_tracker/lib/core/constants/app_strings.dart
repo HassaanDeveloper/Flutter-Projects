@@ -1,0 +1,29 @@
+class AppStrings {
+  static const String appName = 'Personal Finance Tracker';
+  static const String welcomeBack = 'Welcome Back';
+  static const String createAccount = 'Create Account';
+  static const String resetPassword = 'Reset Password';
+  static const String login = 'Login';
+  static const String signUp = 'Sign Up';
+  static const String forgotPassword = 'Forgot Password?';
+  static const String backToLogin = 'Back to Login';
+  static const String alreadyHaveAccount = 'Already have an account? Login';
+  static const String dontHaveAccount = 'Don’t have an account? Sign Up';
+  static const String sendResetEmail = 'Send Reset Email';
+  static const String dashboard = 'Dashboard';
+  static const String transactions = 'Transactions';
+  static const String addTransaction = 'Add Transaction';
+  static const String budgets = 'Budgets';
+  static const String addBudget = 'Add Budget';
+  static const String spendingOverview = 'Spending Overview';
+  static const String viewTransactions = 'View Transactions';
+  static const String manageBudgets = 'Manage Budgets';
+  static const String email = 'Email';
+  static const String password = 'Password';
+  static const String amount = 'Amount';
+  static const String category = 'Category';
+  static const String description = 'Description';
+  static const String verifyEmailMessage = 'Please verify your email';
+  static const String passwordResetSent = 'Password reset email sent!';
+  static const String noExpenses = 'No expenses to display';
+}
